@@ -13,17 +13,6 @@ Welcome to my GitHub profile! I’m passionate about all things DevOps, cloud in
 - **Interests:** Linux administration, Bash scripting, automation
 
 ---
-
-### 🌐 **Connect with Me**
-- [LinkedIn](https://linkedin.com/in/ryanlakner)
-
----
-
-### ⚡ **Fun Fact**
-I thrive in environments where I can automate, optimize, and innovate—whether it’s deploying to the cloud or fine-tuning a shell script.
-
----
-
 <!-- Badges (optional: add more as you earn them!) -->
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-certified-yellow?logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Arch%20%7C%20Debian-blue?logo=linux)
